@@ -1,3 +1,29 @@
+# Projetos de Machine Learning
+
+Rápida descrição do objetivo de fazer esse projeto
+
+| :placard: Vitrine |     |
+| -------------  | --- |
+| :sparkles: Nome        | **Recomendador de músicas pelo spotify usando Machine Learning | K-means**
+| :label: Tecnologias | Python, API spotify (tecnologias utilizadas)
+| :rocket: URL         | https://github.com/JanathanPlanas/Machine-Learning/blob/main/Data%20Science%20Project%20End%20to%20End/2%C2%BA%20Checkpoint%20_%20ML/Recomendador_de_musicas.ipynb
+| :fire: Desafio     | https://url-do-desafio.com.br
+
+<!-- Inserir imagem com a #vitrinedev ao final do link -->
+![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+
+## Detalhes do projeto
+Com ajuda de Machine Learning ,construirei um recomendador de músicas analisando os dados do spotify.
+
+* Usaremos critérios e características das músicas para entende-las suas divisões por meio de K-Means
+* Os aplicativos de música tem um sistema de recomendação que mantém o tipo de música do ouvinte
+* A mesma lógica pode ser implementada para vídeos de recomendações no Youtube baseado em seu histórico
+
+
+
+
+
+
 # Machine Learning && Tools
 On this package, you will found a whole on progress and continous updating codes, photos, graphs and tests exploring library, dataset, packages.
 Method's : 
