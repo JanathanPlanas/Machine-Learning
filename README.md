@@ -10,7 +10,7 @@ Rápida descrição do objetivo de fazer esse projeto
 | :fire: Desafio     | https://url-do-desafio.com.br
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.techtudo.com.br%2Fdicas-e-tutoriais%2F2020%2F08%2Fspotify-codes-como-usar-o-qr-code-do-spotify-para-compartilhar-musicas.ghtml&psig=AOvVaw32PlZVVmYoccDkRldrJJBE&ust=1668296625790000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJD_wLKnp_sCFQAAAAAdAAAAABAD)
 
 ## Detalhes do projeto
 Com ajuda de Machine Learning ,construirei um recomendador de músicas analisando os dados do spotify.
