@@ -7,10 +7,10 @@ Rápida descrição do objetivo de fazer esse projeto
 | :sparkles: Nome        | **Recomendador de músicas pelo spotify usando Machine Learning | K-means**
 | :label: Tecnologias | Python, API spotify (tecnologias utilizadas)
 | :rocket: URL         | https://github.com/JanathanPlanas/Machine-Learning/blob/main/Data%20Science%20Project%20End%20to%20End/2%C2%BA%20Checkpoint%20_%20ML/Recomendador_de_musicas.ipynb
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :fire: Desafio     | [https://url-do-desafio.com.br](https://github.com/JanathanPlanas/Machine-Learning/blob/main/Data%20Science%20Project%20End%20to%20End/2%C2%BA%20Checkpoint%20_%20ML/Recomendador_de_musicas.ipynb)
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.techtudo.com.br%2Fdicas-e-tutoriais%2F2020%2F08%2Fspotify-codes-como-usar-o-qr-code-do-spotify-para-compartilhar-musicas.ghtml&psig=AOvVaw32PlZVVmYoccDkRldrJJBE&ust=1668296625790000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJD_wLKnp_sCFQAAAAAdAAAAABAD)
+![](![image](https://user-images.githubusercontent.com/59850939/201445091-20fcf664-b587-455a-adcc-bb982f5edc2e.png))
 
 ## Detalhes do projeto
 Com ajuda de Machine Learning ,construirei um recomendador de músicas analisando os dados do spotify.
